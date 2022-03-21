@@ -35,6 +35,5 @@ Scores by school type
 ![scores_school_type](https://github.com/JoJofia/School_District_Analysis/blob/91d7a958d7c794b8011a88910d11a7be49ed83ba/Resources/scores_school_type.png)
 
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 After replace the score for ninth grade at Thomas High school didn't have specific to show up the impact in data.However, the ninth grade student replace by NaNs casuse the overall passing percentage and average scores drop down by 0.1%. That's mean the math and reading score also decrease after without 9th grade data. Even though, the data didn't have the big affect on the result but the schoolboard still needs to understand its discrepencies.
 
